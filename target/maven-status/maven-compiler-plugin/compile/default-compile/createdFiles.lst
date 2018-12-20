@@ -1,0 +1,5 @@
+com\cleverbuilder\cameldemos\restdsl\RestDslRouteBuilder.class
+com\cleverbuilder\cameldemos\restdsl\beans\HelloBean.class
+com\cleverbuilder\cameldemos\restdsl\RestDslApplication.class
+com\cleverbuilder\cameldemos\restdsl\types\PostRequestType.class
+com\cleverbuilder\cameldemos\restdsl\beans\PostBean.class
